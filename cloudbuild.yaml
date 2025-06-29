@@ -1,0 +1,24 @@
+steps:
+  - name: 'docker.io/library/node:22.2.0'
+    dir: 'frontend'
+    entrypoint: 'yarn'
+    args: ['install']
+
+  - name: 'docker.io/library/node:22.2.0'
+    dir: 'frontend'
+    entrypoint: 'yarn'
+    args: ['build']
+
+  - name: 'gcr.io/cloud-builders/gcloud'
+    dir: 'frontend'
+    args:
+      [
+        'run',
+        'deploy',
+        'quantumnil-next-website',
+        '--region=europe-west1',
+        '--source=.',
+        '--allow-unauthenticated'
+      ]
+
+timeout: '900s'
