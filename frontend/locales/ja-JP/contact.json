@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "title": "お問い合わせ | Quantum NIL",
+    "subtitle": "お手伝いさせていただきます。"
+  },
+  "form": {
+    "title": "お問い合わせ",
+    "full_name_label": "お名前",
+    "full_name_placeholder": "お名前を入力してください",
+    "email_address_label": "メールアドレス",
+    "email_address_placeholder": "メールアドレスを入力してください",
+    "company_name_label": "会社名",
+    "company_name_placeholder": "会社名を入力してください",
+    "phone_number_label": "電話番号",
+    "phone_number_placeholder": "電話番号を入力してください",
+    "textarea_label": "メッセージ",
+    "textarea_placeholder": "プロジェクトについて詳しくお聞かせください",
+    "form_action": "送信",
+    "success": "お問い合わせありがとうございます",
+    "invalid_email": "有効なメールアドレスを入力してください",
+    "error": "エラーが発生しました。もう一度お試しください。",
+    "privacy_policy_text": "このフォームを送信することで、",
+    "privacy_policy_link": "プライバシーポリシー"
+  },
+  "details": {
+    "get_in_touch": "お問い合わせ",
+    "email": "service@qtnil.com",
+    "address": "台湾 苗栗県 竹南鎮 350401 新竹科学工業園区 科中路11号 4F",
+    "phone": "+886-37-584-086",
+    "fax": "+886-37-584-225"
+  }
+}

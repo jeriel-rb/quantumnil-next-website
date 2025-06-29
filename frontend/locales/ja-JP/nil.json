@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "title": "ナノインプリント | Quantum NIL",
+    "subtitle": "ナノインプリントリソグラフィ技術"
+  },
+  "hero": {
+    "title": "ナノインプリントリソグラフィ (NIL)",
+    "subtitle": "低炭素でコスト効率の高いソリューション"
+  },
+  "description": {
+    "main": "ナノインプリントリソグラフィは、ウェーハレベルでサブミクロンの微細な特徴を複製できる技術で、あらゆる基板に理想的に適用できます。電子ビームやEUVリソグラフィと比較して、代替的な生産ソリューションとして見られています。",
+    "suitable_for": "特に、NILは以下の製品要件に適しています："
+  },
+  "requirements": {
+    "resolution": "構造解像度 < 100m",
+    "materials": "機能指向材料または非Si基板",
+    "structure": "ハイブリッドまたは複雑な構造 - 2D/3D不規則分布形状",
+    "scale": "中小規模の経済的または高度にカスタマイズされた生産規模"
+  },
+  "animation": {
+    "steps": {
+      "title": "NILの製造プロセス",
+      "description": "ナノスケールパターン形成のプロセス",
+      "press_mode": "プレスモード",
+      "uv_heat": "UV/加熱",
+      "release_mold": "型離し",
+      "substrate_etch": "基板エッチング"
+    },
+    "components": {
+      "mold": "型",
+      "polymer": "ポリマー",
+      "substrate": "基板"
+    }
+  }
+}

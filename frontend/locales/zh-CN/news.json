@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "title": "新闻 | Quantum NIL",
+    "subtitle": "了解量子纳米压印光刻（NIL）领域的最新新闻和发展动态。"
+  },
+  "hero": {
+    "title": "新闻"
+  },
+  "news": {
+    "quantum_computing": {
+      "title": "量子计算",
+      "subtitle": "采用超精密NIL技术构建的量子硬件",
+      "content": "使用纳米压印光刻（NIL）的量子计算技术能够实现纳米级量子组件的可扩展、高精度制造。这种方法确保了下一代量子硬件的一致性能、降低成本以及更高的可制造性。"
+    }
+  },
+  "other_news": {
+    "title": "其他新闻"
+  }
+}

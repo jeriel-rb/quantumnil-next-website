@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "title": "NIL | Quantum NIL",
+    "subtitle": "Nanoimprint Lithography (NIL) Technology"
+  },
+  "hero": {
+    "title": "Nanoimprint Lithography (NIL)",
+    "subtitle": "A low-carbon and cost-effective solution"
+  },
+  "description": {
+    "main": "Nanoimprint lithography is a technique that enables the replication of sub-micrometric fine features at wafer level and can be ideally applies onto any substrates. It is viewed as an alternative production solution compared with E-beam and EUV lithography",
+    "suitable_for": "Particularly, NIL is suitable for the following product demands:"
+  },
+  "requirements": {
+    "resolution": "Structure resolution < 100m",
+    "materials": "Function-oriented materials or non-Si substrate",
+    "structure": "Hybrid or complex structure - 2D/3D irregular distribute shape",
+    "scale": "Medium-to-small economic or highly customized production scale"
+  },
+  "animation": {
+    "steps": {
+      "title": "How NIL is Made",
+      "description": "The process behind nano-scale patterning",
+      "press_mode": "Press mode",
+      "uv_heat": "UV/Heat",
+      "release_mold": "Release mold",
+      "substrate_etch": "Substrate etch"
+    },
+    "components": {
+      "mold": "Mold",
+      "polymer": "Polymer",
+      "substrate": "Substrate"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "button": {
+    "work_with": "與我們合作",
+    "learn_more": "了解更多",
+    "language": "語言",
+    "home_button": "查看我們的服務",
+    "view_cases": "查看所有案例",
+    "our_team": "我們的團隊",
+    "skip": "跳過"
+  },
+  "navigation": {
+    "nil": "NIL",
+    "nil_applications": "NIL應用",
+    "products_and_services": "產品與服務",
+    "our_team": "我們的團隊",
+    "news": "新聞",
+    "contact": "聯絡我們"
+  },
+  "footer": {
+    "title": "聯絡我們",
+    "description": "材料工程混合奈米壓印光刻解決方案的鑄造廠",
+    "copyright": "Quantum NIL. 版權所有",
+    "resources": "資源",
+    "legal": "法律資訊",
+    "privacy_policy": "隱私政策",
+    "terms": "條款與條件",
+    "contact": "聯絡我們"
+  },
+  "marquee": {
+    "project": "查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - 查看專案 - ",
+    "post": "查看文章 - 查看文章 - 查看文章 - 查看文章 - 查看文章 - "
+  },
+  "news": "新聞",
+  "whatsapp": "聯絡我們",
+  "error_title": "頁面未找到",
+  "error_subtitle": "抱歉，您訪問的頁面不存在或已被移動。",
+  "error_button": "返回首頁"
+}

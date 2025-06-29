@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "title": "Privacy Policy | Quantum NIL",
+    "subtitle": "Learn about how we collect, use, and protect your personal information."
+  },
+  "hero": {
+    "title": "Privacy Policy"
+  },
+  "content": {
+    "effective_date": "Effective Date:",
+    "last_updated": "Last Updated:",
+    "dates": {
+      "effective": "17 May 2025",
+      "updated": "17 May 2025"
+    },
+    "intro": "At Quantum NIL, your privacy is a priority. We are committed to handling your personal data responsibly and transparently, in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws.",
+    "sections": {
+      "who_we_are": {
+        "title": "1. Who We Are",
+        "content": "Quantum NIL is a technology company specializing in advanced Nanoimprint Lithography (NIL). Our website address is:",
+        "website_url": "https://qtnil.com/"
+      },
+      "data_collection": {
+        "title": "2. What Data We Collect",
+        "content": "We may collect and process the following personal data:",
+        "items": {
+          "identification": "Identification & Contact Data: Name, email address, phone number, company name",
+          "usage": "Usage Data: IP address, browser type, device information, pages visited, time spent on the site",
+          "marketing": "Marketing Preferences: Opt-in choices for newsletters or updates"
+        }
+      },
+      "legal_bases": {
+        "title": "3. Legal Bases for Processing",
+        "content": "We only collect and process your data where we have a legal basis to do so:",
+        "items": {
+          "consent": "Consent – when you opt in to communications or cookies",
+          "contract": "Contractual necessity – when you contact us for support or quotes",
+          "interest": "Legitimate interest – for website analytics and security",
+          "legal": "Legal obligation – when required by law"
+        }
+      },
+      "data_usage": {
+        "title": "4. How We Use Your Data",
+        "items": {
+          "services": "To provide and improve our services and website",
+          "inquiries": "To respond to your inquiries or requests",
+          "marketing": "To send marketing communications if you have opted in",
+          "analytics": "To analyze user behavior for performance and security"
+        }
+      },
+      "data_sharing": {
+        "title": "5. Data Sharing",
+        "content": "We do not sell your data. We may share your personal data with:",
+        "items": {
+          "providers": "Service providers (hosting, analytics, email platforms) bound by confidentiality agreements",
+          "authorities": "Legal or regulatory authorities when required"
+        }
+      },
+      "data_retention": {
+        "title": "6. Data Retention",
+        "content": "We keep your data only as long as necessary for the purposes outlined in this policy or as required by law."
+      },
+      "your_rights": {
+        "title": "7. Your Rights (Under GDPR)",
+        "content": "You have the right to:",
+        "items": {
+          "access": "Access your personal data",
+          "rectify": "Rectify inaccuracies in your data",
+          "erase": "Erase your data (\"right to be forgotten\")",
+          "restrict": "Restrict or object to processing",
+          "portability": "Data portability",
+          "withdraw": "Withdraw consent at any time"
+        },
+        "contact": "To exercise your rights, please contact us at:"
+      },
+      "international": {
+        "title": "8. International Transfers",
+        "content": "If we transfer your data outside the European Economic Area (EEA), we ensure it is protected by appropriate safeguards (e.g., Standard Contractual Clauses)."
+      },
+      "cookies": {
+        "title": "9. Cookies",
+        "content": "Our website uses cookies to enhance your experience. You can manage cookie preferences in our cookie banner or your browser settings. For more information about cookies, visit the",
+        "link": "EU Cookie Policy Guidelines"
+      },
+      "changes": {
+        "title": "10. Changes to This Policy",
+        "content": "We may update this Privacy Policy periodically. Changes will be posted on this page with a revised \"Last Updated\" date."
+      },
+      "contact": {
+        "title": "11. Contact Information",
+        "content": "If you have any questions or concerns about this policy or your data rights, contact:",
+        "email": "service@qtnil.com",
+        "address": "4F, NO. 11, Kezhong Rd., Hsinchu Science Park, Zhunan, Miao-Li County 350401, Taiwan",
+        "phone": "(TEL) 886-37-584-086\n📞 (FAX) 886-37-584-225"
+      }
+    }
+  }
+}

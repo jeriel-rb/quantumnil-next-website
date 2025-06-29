@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "title": "隱私政策 | Quantum NIL",
+    "subtitle": "了解我們如何收集、使用和保護您的個人資訊。"
+  },
+  "hero": {
+    "title": "隱私政策"
+  },
+  "content": {
+    "effective_date": "生效日期：",
+    "last_updated": "最後更新：",
+    "dates": {
+      "effective": "2025年5月17日",
+      "updated": "2025年5月17日"
+    },
+    "intro": "在Quantum NIL，您的隱私是我們的首要任務。我們致力於根據《通用資料保護條例》（GDPR）和其他適用的資料保護法律，負責任且透明地處理您的個人資料。",
+    "sections": {
+      "who_we_are": {
+        "title": "1. 我們是誰",
+        "content": "Quantum NIL是一家專注於先進奈米壓印光刻（NIL）技術的公司。我們的網站地址是：",
+        "website_url": "https://qtnil.com/"
+      },
+      "data_collection": {
+        "title": "2. 我們收集的資料",
+        "content": "我們可能收集和處理以下個人資料：",
+        "items": {
+          "identification": "身份和聯繫資料：姓名、電子郵件地址、電話號碼、公司名稱",
+          "usage": "使用資料：IP地址、瀏覽器類型、設備資訊、訪問頁面、網站停留時間",
+          "marketing": "行銷偏好：選擇接收新聞通訊或更新的選項"
+        }
+      },
+      "legal_bases": {
+        "title": "3. 處理的法律依據",
+        "content": "我們僅在具有法律依據的情況下收集和處理您的資料：",
+        "items": {
+          "consent": "同意 – 當您選擇接收通訊或接受cookies時",
+          "contract": "合同必要性 – 當您聯繫我們尋求支持或報價時",
+          "interest": "合法利益 – 用於網站分析和安全",
+          "legal": "法律義務 – 當法律要求時"
+        }
+      },
+      "data_usage": {
+        "title": "4. 我們如何使用您的資料",
+        "items": {
+          "services": "提供和改進我們的服務和網站",
+          "inquiries": "回應您的詢問或請求",
+          "marketing": "如果您選擇接收，發送行銷通訊",
+          "analytics": "分析用戶行為以提升性能和安全性"
+        }
+      },
+      "data_sharing": {
+        "title": "5. 資料共享",
+        "content": "我們不會出售您的資料。我們可能與以下方共享您的個人資料：",
+        "items": {
+          "providers": "受保密協議約束的服務提供商（託管、分析、電子郵件平台）",
+          "authorities": "法律或監管機構（當需要時）"
+        }
+      },
+      "data_retention": {
+        "title": "6. 資料保留",
+        "content": "我們僅在實現本政策所述目的或法律要求所需的時間內保留您的資料。"
+      },
+      "your_rights": {
+        "title": "7. 您的權利（根據GDPR）",
+        "content": "您有權：",
+        "items": {
+          "access": "訪問您的個人資料",
+          "rectify": "更正資料中的不準確之處",
+          "erase": "刪除您的資料（\"被遺忘權\"）",
+          "restrict": "限制或反對處理",
+          "portability": "資料可攜帶性",
+          "withdraw": "隨時撤回同意"
+        },
+        "contact": "要行使您的權利，請聯繫我們："
+      },
+      "international": {
+        "title": "8. 國際傳輸",
+        "content": "如果我們將您的資料傳輸到歐洲經濟區（EEA）以外，我們確保其受到適當的保護措施（例如，標準合同條款）的保護。"
+      },
+      "cookies": {
+        "title": "9. Cookies",
+        "content": "我們的網站使用cookies來增強您的體驗。您可以在我們的cookie橫幅或瀏覽器設置中管理cookie偏好。更多關於cookies的資訊，請訪問",
+        "link": "歐盟Cookie政策指南"
+      },
+      "changes": {
+        "title": "10. 政策變更",
+        "content": "我們可能會定期更新本隱私政策。變更將發布在本頁面上，並更新\"最後更新\"日期。"
+      },
+      "contact": {
+        "title": "11. 聯繫資訊",
+        "content": "如果您對本政策或您的資料權利有任何問題或疑慮，請聯繫：",
+        "email": "service@qtnil.com",
+        "address": "350401 苗栗縣竹南鎮科中路11號4樓",
+        "phone": "(TEL) 886-37-584-086\n📞 (FAX) 886-37-584-225"
+      }
+    }
+  }
+}

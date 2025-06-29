@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "title": "Quantum NIL | where science meets industry",
+    "subtitle": "We has been developing the world leading process technology in Nanoimprint lithography(NIL) for production consideration."
+  },
+  "hero": {
+    "title": "Where science\nmeets industry ",
+    "subtitle": "We has been developing the world leading process technology in Nanoimprint lithography(NIL) for production consideration."
+  },
+  "about_parallax": "Quantum NIL Limited was established in 2006 as a company registered in the British Virgin Islands (BVI), specializing in nanoimprint lithography (NIL) technology research and applications.\n\nQuantum NIL is dedicated to developing world-leading nanoimprint lithography (NIL) production technology, providing high-quality nanoscale pattern replication services to customers in the semiconductor, display, LED, and other industries.\n\nOur team consists of experienced scientists and engineers with deep technical expertise and innovative capabilities.\n\nQuantum NIL upholds the scientific spirit, combining nanoimprint lithography (NIL) technology with industrial production to provide customers with efficient and reliable nanoscale pattern replication solutions.",
+  "highlight": {
+    "tag": "Nanoimprint Lithography",
+    "title": "What is NIL?",
+    "subtitle1": "Nanoimprint Lithography (NIL) is a high-precision technique that stamps nanoscale patterns onto surfaces using a mold. It offers a low-cost, high-resolution alternative to traditional lithography for creating tiny structures.",
+    "subtitle2": "NIL is ideal for producing nanochips, sensors, and optical devices. Its simplicity and accuracy make it perfect for industries needing detailed surface patterns at scale."
+  },
+  "features": {
+    "tag": "How NIL Works",
+    "title": "Use Cases",
+    "subtitle": "Nanoimprint lithography is a technique that enables the replication of sub-micrometric fine features at wafer level and can be ideally"
+  },
+  "team": {
+    "tag": "What makes us different",
+    "title": "Our Team",
+    "image_alt": "Our team at Quantum NIL",
+    "description": "With over a decade of experience in nanoimprint lithography (NIL), our team has developed world-leading process technology for production applications. Since 2007, we have successfully implemented NIL on high-volume LED wafers, sapphire, and fragile InP laser wafers, integrating nano-structures into industry-standard processes. Leveraging our expertise, we deliver highly customized fine structures on various materials and continue advancing our NIL capabilities toward quantum applications."
+  },
+  "button": {
+    "learn_more": "Learn More",
+    "nil_applications": "NIL Applications"
+  },
+  "lottie": {
+    "how_its_made": "How it's made"
+  }
+}

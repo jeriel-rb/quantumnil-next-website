@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "会社概要 | Quantum NIL",
+    "subtitle": "私たちは、ナノインプリントリソグラフィ（NIL）の世界をリードするプロセス技術の開発に情熱を注ぐチームです。"
+  },
+  "hero": {
+    "title": "会社の歩み",
+    "subtitle": "NIL生産のパイオニア"
+  },
+  "our_team": {
+    "items": {
+      "team_born": {
+        "tag": "2006-2007",
+        "title": "チーム結成",
+        "description": "英国Mesophotonics Limitedでチームを結成"
+      },
+      "first_nil": {
+        "tag": "2009",
+        "title": "初のNIL生産",
+        "description": "台湾でLEDチップ製造のための初のNIL生産ラインを構築"
+      },
+      "nil_production": {
+        "tag": "2010",
+        "title": "NIL生産開始",
+        "description": "パターン化サファイア基板（PSS）のNIL生産開始 - HB GaN LED"
+      },
+      "nil_development": {
+        "tag": "2011-2015",
+        "title": "NIL技術開発",
+        "description": "最大6インチの様々な基板でのNIL技術の実証に成功"
+      },
+      "iqe_acquires": {
+        "tag": "2016",
+        "title": "IQEによる買収",
+        "description": "DFBレーザーワーハグレーティング製造のため、チーム、知的財産権、NIL設備をIQE Plcが買収"
+      },
+      "nil_production_2020": {
+        "tag": "2020",
+        "title": "NIL生産開始",
+        "description": "InP DFBレーザーワーハのグレーティングNIL生産開始"
+      },
+      "nil_development_2021": {
+        "tag": "2021 - 2022",
+        "title": "NIL技術開発",
+        "description": "様々なレーザーワーハ向けNIL技術の認証進行中"
+      },
+      "nil_foundry": {
+        "tag": "2022",
+        "title": "NILファウンドリ",
+        "description": "IQE Plcから独立したNIL事業部"
+      }
+    }
+  },
+  "description": "私たちのチームは、生産を考慮した世界をリードするナノインプリントリソグラフィ（NIL）のプロセス技術の開発に取り組んでいます。2007年以来、高ボリュームLEDワーハ、硬質サファイア基板、そして脆いInPレーザーワーハの生産にNILプロセスを成功裏に導入してきました。独自に開発したプロセスフローにより、私たちのチームはNILプロセスを複数の業界標準プロセスに統合し、ナノ構造を内包する製品を提供しています。NILにおける10年の経験により、様々な材料上で高度にカスタマイズされた微細構造を製造することができ、量子分野への応用に向けてNIL技術を継続的に改良しています。"
+}

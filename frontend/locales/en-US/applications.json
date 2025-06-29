@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "title": "NIL Applications | Quantum NIL",
+    "subtitle": "Explore our range of NIL applications in quantum computing, datacom/telecom, illumination, optics, advanced sensing, and biochips."
+  },
+  "hero": {
+    "title": "NIL Applications"
+  },
+  "applications": {
+    "quantum_computing": {
+      "title": "Quantum computing",
+      "subtitle": "Quantum hardware built with ultra-precise NIL",
+      "content": "Quantum computing using nanoimprint lithography (NIL) enables the scalable, high-precision fabrication of quantum components at the nanoscale. This approach ensures consistent performance, reduced cost, and greater manufacturability for next-generation quantum hardware."
+    },
+    "datacom_telecom": {
+      "title": "Datacom/Telecom",
+      "subtitle": "Efficient optical networks built with nanoimprint lithography",
+      "content": "Nanoimprint lithography (NIL) enables high-volume, cost-effective production of advanced photonic components for datacom and telecom applications. Its nanoscale precision supports faster, more efficient optical signal transmission, paving the way for high-speed, next-generation communication networks."
+    },
+    "illumination": {
+      "title": "Illumination",
+      "subtitle": "UV illumination locks in flawless nanoscale patterns",
+      "content": "Illumination in nanoimprint lithography uses UV light to instantly cure the imprinted resist, locking in nanoscale patterns with high precision. This step ensures the transferred design remains sharp, stable, and production-ready, making it essential for fast, reliable nanofabrication."
+    },
+    "optics": {
+      "title": "Optics",
+      "subtitle": "Precision optics manufactured with scalable NIL",
+      "content": "Nanoimprint lithography (NIL) enables the production of advanced optical components with nanoscale precision and high throughput. It supports the development of lenses, gratings, and metasurfaces for applications in imaging, sensing, AR/VR, and photonic systems."
+    },
+    "advance_sensing": {
+      "title": "Advance Sensing",
+      "subtitle": "Nanoscale sensing platforms powered by precision NIL",
+      "content": "Nanoimprint lithography (NIL) enables the creation of highly precise nanostructures that enhance the sensitivity and performance of advanced sensing devices. This scalable technology supports applications in biosensing, environmental monitoring, and industrial detection with high reliability and cost-efficiency."
+    },
+    "bio_chip": {
+      "title": "Bio Chip",
+      "subtitle": "Scalable high-precision biochips manufactured with NIL",
+      "content": "Nanoimprint lithography (NIL) enables the mass production of high-precision biochips with microscale and nanoscale features. These biochips enhance biological analysis and diagnostics, supporting applications in healthcare, research, and point-of-care testing."
+    }
+  }
+}

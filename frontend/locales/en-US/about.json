@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "About | Quantum NIL",
+    "subtitle": "We are a team who are passionate about developing the world leading process technology in Nanoimprint lithography(NIL)."
+  },
+  "hero": {
+    "title": "Company Evolution",
+    "subtitle": "Pioneer in implementing NIL production"
+  },
+  "our_team": {
+    "items": {
+      "team_born": {
+        "tag": "2006-2007",
+        "title": "Team was born",
+        "description": "Team was formed in Mesophotonics Limited, UK"
+      },
+      "first_nil": {
+        "tag": "2009",
+        "title": "1st NIL production",
+        "description": "Built up the 1st NIL production line for LED chip fabrication in Taiwan"
+      },
+      "nil_production": {
+        "tag": "2010",
+        "title": "NIL in production",
+        "description": "NIL for Pattern Sapphire Substrate (PSS) in production - HB GaN LED"
+      },
+      "nil_development": {
+        "tag": "2011-2015",
+        "title": "NIL in development",
+        "description": "NIL on different substrates up to 6\" were successfully demonstrated"
+      },
+      "iqe_acquires": {
+        "tag": "2016",
+        "title": "IQE acquires the team",
+        "description": "Team, IP and NIL equipment were acquired by IQE Plc for DFB laser wafer grating fabrication"
+      },
+      "nil_production_2020": {
+        "tag": "2020",
+        "title": "NIL in production",
+        "description": "NIL granting for InP DFB laser wafers in production"
+      },
+      "nil_development_2021": {
+        "tag": "2021 - 2022",
+        "title": "NIL in development",
+        "description": "NIL for different laser wafers are under qualification"
+      },
+      "nil_foundry": {
+        "tag": "2022",
+        "title": "NIL Foundry",
+        "description": "NIL BU independent of IQE Plc"
+      }
+    }
+  },
+  "description": "Our team has been developing the world leading process technology in Nanoimprint lithography(NIL) for production consideration. Since 2007, we successfully implemented NIL process onto high volume LED wafers, hard sapphire substrates and fragile InP laser wafers for production. With the unique developed process flow, our team has integrated NIL process into several industry standard processes to deliver the products with nano-structure inside. With decade experience in NIL, we are capable of manufacturing highly customized fine structures on different materials and keep elaborating our NIL technique to approach the quantum filed application."
+}

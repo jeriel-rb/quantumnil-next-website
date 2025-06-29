@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "title": "Products & Services | Quantum NIL",
+    "subtitle": "Explore our comprehensive range of nano-fabrication services and solutions."
+  },
+  "hero": {
+    "title": "Products & Services"
+  },
+  "sections": {
+    "foundry": {
+      "title": "NANO-FABRICATION FOUNDRY SERVICE",
+      "items": [
+        {
+          "title": "Grating Fabrication for DFB/VCSEL Epitaxy Wafer",
+          "details": [
+            "NIL & photo-litho process",
+            "III-V material etch",
+            "Alignment mark fabrication"
+          ]
+        },
+        {
+          "title": "Diffractive Optical Element (DOE) & Metalens",
+          "details": [
+            "Optical design simulation",
+            "NIL process",
+            "Glass/quartz material etch"
+          ]
+        },
+        {
+          "title": "Photonic Crystal Fabrication",
+          "details": [
+            "Photonic crystal & photonic quasi-crystal design simulation",
+            "NIL & photo-litho process",
+            "III-V material etch"
+          ]
+        },
+        {
+          "title": "Customized Nano-Textured Hybrid Fabrication",
+          "details": [
+            "Display",
+            "μLED & QD LED",
+            "Bio-sensing/detection template",
+            "Biomimetic surface"
+          ]
+        }
+      ]
+    },
+    "techniques": {
+      "title": "NANO-FABRICATION TECHNIQUES & SPECIFICATIONS",
+      "items": [
+        {
+          "title": "Production Scale of NIL (2\" ~ 8\" wafer size)",
+          "details": [
+            "Minimum CD in production: 25nm",
+            "Fragile & bowling wafers can be applied",
+            "Workable thickness of wafers: 75 µm ~ 2mm"
+          ]
+        },
+        {
+          "title": "E-beam Lithography & Photo Lithography",
+          "details": [
+            "High-end E-beam tool for NIL mold/master fabrication",
+            "Process alignment mark fabrication by both of NIL and photo-litho",
+            "Crystalline alignment along the major flat of wafers: < 0.02o"
+          ]
+        },
+        {
+          "title": "Material Etch",
+          "details": [
+            "Dedicated dry etch tools for different materials",
+            "Dry etch thickness variation within wafers: +/- 3nm",
+            "Possesses both of dry and wet etch"
+          ]
+        },
+        {
+          "title": "Nano-structure Design & Simulation",
+          "details": [
+            "PWE & FDTD self-developed codes",
+            "Photon emitting beam shaping",
+            "Photon block & diffracted mode simulation"
+          ]
+        }
+      ]
+    }
+  }
+}

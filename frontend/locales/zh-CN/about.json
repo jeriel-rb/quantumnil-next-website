@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "关于我们 | Quantum NIL",
+    "subtitle": "我们是一支热衷于开发世界领先的纳米压印光刻技术(NIL)的团队。"
+  },
+  "hero": {
+    "title": "公司发展历程",
+    "subtitle": "NIL生产的开拓者"
+  },
+  "our_team": {
+    "items": {
+      "team_born": {
+        "tag": "2006-2007",
+        "title": "团队成立",
+        "description": "团队在英国Mesophotonics Limited成立"
+      },
+      "first_nil": {
+        "tag": "2009",
+        "title": "首次NIL生产",
+        "description": "在台湾建立首条用于LED芯片制造的NIL生产线"
+      },
+      "nil_production": {
+        "tag": "2010",
+        "title": "NIL投入生产",
+        "description": "NIL用于图案化蓝宝石基板(PSS)生产 - HB GaN LED"
+      },
+      "nil_development": {
+        "tag": "2011-2015",
+        "title": "NIL技术发展",
+        "description": "成功展示在最大6英寸的不同基板上的NIL技术"
+      },
+      "iqe_acquires": {
+        "tag": "2016",
+        "title": "IQE收购团队",
+        "description": "团队、知识产权和NIL设备被IQE Plc收购，用于DFB激光晶圆光栅制造"
+      },
+      "nil_production_2020": {
+        "tag": "2020",
+        "title": "NIL投入生产",
+        "description": "NIL光栅技术用于InP DFB激光晶圆生产"
+      },
+      "nil_development_2021": {
+        "tag": "2021 - 2022",
+        "title": "NIL技术发展",
+        "description": "用于不同激光晶圆的NIL技术正在认证中"
+      },
+      "nil_foundry": {
+        "tag": "2022",
+        "title": "NIL代工厂",
+        "description": "NIL事业部从IQE Plc独立"
+      }
+    }
+  },
+  "description": "我们的团队一直致力于开发世界领先的纳米压印光刻技术(NIL)，以满足生产需求。自2007年以来，我们成功将NIL制程应用于高产量LED晶圆、硬质蓝宝石基板和脆性InP激光晶圆的生产。凭借独特的制程流程，我们的团队已将NIL制程整合到多个产业标准制程中，以提供具有纳米结构的产品。凭借在NIL领域十年的经验，我们能够在不同材料上制造高度定制化的精细结构，并持续改进我们的NIL技术以应用于量子领域。"
+}

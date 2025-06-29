@@ -1,0 +1,12 @@
+@use "./curve.scss";
+
+.main {
+  .page {
+    min-height: calc(100vh - 80px);
+  }
+
+  .body {
+    display: flex;
+    gap: 40px;
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "title": "Contact | Quantum NIL",
+    "subtitle": "We are here to help you with your needs."
+  },
+  "form": {
+    "title": "Contact us",
+    "full_name_label": "Full Name",
+    "full_name_placeholder": "Enter your full name",
+    "email_address_label": "Email Address",
+    "email_address_placeholder": "Enter your email address",
+    "company_name_label": "Company Name",
+    "company_name_placeholder": "Enter your company name",
+    "phone_number_label": "Telephone Number",
+    "phone_number_placeholder": "Enter your telephone number",
+    "textarea_label": "Message",
+    "textarea_placeholder": "Tell us more about your project",
+    "form_action": "Submit",
+    "success": "Thank you for contacting us",
+    "invalid_email": "Please enter a valid email address",
+    "error": "Something went wrong. Please try again.",
+    "privacy_policy_text": "By submitting this form you agree to our",
+    "privacy_policy_link": "privacy policy"
+  },
+  "details": {
+    "get_in_touch": "Get in touch",
+    "email": "service@qtnil.com",
+    "address": "4F, NO. 11, Kezhong Rd., Hsinchu Science Park, Zhunan,  Miao-Li County 350401, Taiwan",
+    "phone": "+886-37-584-086",
+    "fax": "+886-37-584-225"
+  }
+}

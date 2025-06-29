@@ -1,0 +1,38 @@
+{
+  "button": {
+    "work_with": "Work with us",
+    "learn_more": "Learn more",
+    "language": "Language",
+    "home_button": "View our services",
+    "view_cases": "View all cases",
+    "our_team": "Our team",
+    "skip": "Skip"
+  },
+  "navigation": {
+    "nil": "NIL",
+    "nil_applications": "NIL Applications",
+    "products_and_services": "Products & Services",
+    "our_team": "Our Team",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "footer": {
+    "title": "Contact us",
+    "description": "Foundry for material engineering hybrid nanoimprint lithography solutions",
+    "copyright": "Quantum NIL. All rights reserved",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy_policy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "contact": "Contact"
+  },
+  "marquee": {
+    "project": "View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - View Project - ",
+    "post": "View Post - View Post - View Post - View Post - View Post - "
+  },
+  "news": "News",
+  "whatsapp": "Contact us",
+  "error_title": "Page not found",
+  "error_subtitle": "Sorry, the page you visited does not exist or has been moved.",
+  "error_button": "Back to home"
+}

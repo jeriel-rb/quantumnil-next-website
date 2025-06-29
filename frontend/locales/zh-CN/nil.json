@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "title": "纳米压印 | Quantum NIL",
+    "subtitle": "纳米压印光刻技术"
+  },
+  "hero": {
+    "title": "纳米压印光刻技术 (NIL)",
+    "subtitle": "低碳且具成本效益的解决方案"
+  },
+  "description": {
+    "main": "纳米压印光刻技术是一种能够在晶圆级别复制亚微米精细特征的技术，可以理想地应用于任何基板。与电子束和极紫外光刻相比，它被视为一种替代生产解决方案。",
+    "suitable_for": "特别是，NIL适用于以下产品需求："
+  },
+  "requirements": {
+    "resolution": "结构分辨率 < 100m",
+    "materials": "功能导向材料或非硅基板",
+    "structure": "混合或复杂结构 - 2D/3D不规则分布形状",
+    "scale": "中小型经济或高度定制化生产规模"
+  },
+  "animation": {
+    "steps": {
+      "title": "NIL的制造过程",
+      "description": "纳米级图案形成的过程",
+      "press_mode": "压印模式",
+      "uv_heat": "紫外/加热",
+      "release_mold": "释放模具",
+      "substrate_etch": "基板蚀刻"
+    },
+    "components": {
+      "mold": "模具",
+      "polymer": "聚合物",
+      "substrate": "基板"
+    }
+  }
+}

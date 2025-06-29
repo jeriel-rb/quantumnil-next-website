@@ -1,0 +1,62 @@
+{
+  "name": "roundbytes-website-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@dotlottie/react-player": "^1.6.19",
+    "@portabletext/react": "^3.2.1",
+    "@sendgrid/mail": "^8.1.5",
+    "@strapi/blocks-react-renderer": "^1.0.2",
+    "@vercel/analytics": "^1.5.0",
+    "class-variance-authority": "^0.7.1",
+    "classnames": "^2.5.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "gsap": "^3.12.7",
+    "i18next": "^24.2.2",
+    "i18next-resources-to-backend": "^1.2.1",
+    "lenis": "^1.2.3",
+    "lucide-react": "^0.483.0",
+    "markdown-to-jsx": "^7.7.4",
+    "motion": "^12.5.0",
+    "next": "15.2.2",
+    "next-i18n-router": "^5.5.1",
+    "next-i18next": "^15.4.2",
+    "next-intl": "^4.0.2",
+    "qs": "^6.14.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-i18next": "^15.4.1",
+    "react-icons": "^5.5.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-toastify": "^11.0.5",
+    "sass": "^1.85.1",
+    "strapi-plugin-populate-deep": "^3.0.1",
+    "swiper": "^11.2.5",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/qs": "^6",
+    "@types/react": "18",
+    "@types/react-dom": "18",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "packageManager": "yarn@4.5.3+sha512.3003a14012e2987072d244c720506549c1aab73ee728208f1b2580a9fd67b92d61ba6b08fe93f6dce68fd771e3af1e59a0afa28dd242dd0940d73b95fedd4e90",
+  "engines": {
+    "node": ">=14.19.1 <=20.x.x"
+  }
+}

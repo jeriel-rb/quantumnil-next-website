@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "title": "联系我们 | Quantum NIL",
+    "subtitle": "我们随时为您提供帮助。"
+  },
+  "form": {
+    "title": "联系我们",
+    "full_name_label": "姓名",
+    "full_name_placeholder": "请输入您的姓名",
+    "email_address_label": "电子邮箱",
+    "email_address_placeholder": "请输入您的电子邮箱",
+    "company_name_label": "公司名称",
+    "company_name_placeholder": "请输入您的公司名称",
+    "phone_number_label": "电话号码",
+    "phone_number_placeholder": "请输入您的电话号码",
+    "textarea_label": "留言",
+    "textarea_placeholder": "请告诉我们更多关于您的项目",
+    "form_action": "提交",
+    "success": "感谢您的联系",
+    "invalid_email": "请输入有效的电子邮箱地址",
+    "error": "出现错误，请重试。",
+    "privacy_policy_text": "提交此表单即表示您同意我们的",
+    "privacy_policy_link": "隐私政策"
+  },
+  "details": {
+    "get_in_touch": "联系我们",
+    "email": "service@qtnil.com",
+    "address": "350401 苗栗县竹南镇科中路11号4楼",
+    "phone": "+886-37-584-086",
+    "fax": "+886-37-584-225"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "title": "News | Quantum NIL",
+    "subtitle": "Stay updated with the latest news and developments in the field of quantum nanoimprint lithography (NIL)."
+  },
+  "hero": {
+    "title": "News"
+  },
+  "news": {
+    "quantum_computing": {
+      "title": "Quantum computing",
+      "subtitle": "Quantum hardware built with ultra-precise NIL",
+      "content": "Quantum computing using nanoimprint lithography (NIL) enables the scalable, high-precision fabrication of quantum components at the nanoscale. This approach ensures consistent performance, reduced cost, and greater manufacturability for next-generation quantum hardware."
+    }
+  },
+  "other_news": {
+    "title": "Other News"
+  }
+}
